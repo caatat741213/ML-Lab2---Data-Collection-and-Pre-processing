@@ -1,0 +1,5 @@
+
+lab2venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
