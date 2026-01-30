@@ -1,0 +1,5002 @@
+[
+    {
+        "order_id": 897751939,
+        "item_type": "Household",
+        "order_date": "2015-08-31",
+        "total_revenue": 2408445.08,
+        "total_profit": 597290.92,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 599480426,
+        "item_type": "Baby Food",
+        "order_date": "2010-11-20",
+        "total_revenue": 2153286.8,
+        "total_profit": 808579.1,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 538911855,
+        "item_type": "Meat",
+        "order_date": "2017-06-22",
+        "total_revenue": 2045322.72,
+        "total_profit": 277305.6,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 459845054,
+        "item_type": "Meat",
+        "order_date": "2012-02-28",
+        "total_revenue": 3048155.25,
+        "total_profit": 413270.0,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 626391351,
+        "item_type": "Cereal",
+        "order_date": "2010-08-12",
+        "total_revenue": 406257.5,
+        "total_profit": 174965.25,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 472974574,
+        "item_type": "Meat",
+        "order_date": "2010-08-20",
+        "total_revenue": 1072444.38,
+        "total_profit": 145402.4,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 854331052,
+        "item_type": "Household",
+        "order_date": "2011-02-03",
+        "total_revenue": 2939051.46,
+        "total_profit": 728880.54,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 895509612,
+        "item_type": "Household",
+        "order_date": "2015-09-11",
+        "total_revenue": 32745.23,
+        "total_profit": 8120.77,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 241871583,
+        "item_type": "Cosmetics",
+        "order_date": "2014-01-31",
+        "total_revenue": 1762353.2,
+        "total_profit": 700869.97,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 409090793,
+        "item_type": "Cosmetics",
+        "order_date": "2015-11-21",
+        "total_revenue": 3458689.2,
+        "total_profit": 1375485.57,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 733153569,
+        "item_type": "Fruits",
+        "order_date": "2016-08-29",
+        "total_revenue": 49337.04,
+        "total_profit": 0.0,
+        "profit_per_unit": 0.0,
+        "efficiency_score": 0.0,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 620358741,
+        "item_type": "Cosmetics",
+        "order_date": "2016-10-21",
+        "total_revenue": 2969462.4,
+        "total_profit": 1180925.04,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 897317636,
+        "item_type": "Vegetables",
+        "order_date": "2010-03-21",
+        "total_revenue": 783241.04,
+        "total_profit": 320952.92,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 660954082,
+        "item_type": "Vegetables",
+        "order_date": "2010-10-15",
+        "total_revenue": 1518261.3,
+        "total_profit": 622146.15,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 428504407,
+        "item_type": "Office Supplies",
+        "order_date": "2010-10-04",
+        "total_revenue": 1843575.51,
+        "total_profit": 357413.75,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 787517440,
+        "item_type": "Cosmetics",
+        "order_date": "2014-10-14",
+        "total_revenue": 1209295.2,
+        "total_profit": 480924.42,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 145854508,
+        "item_type": "Personal Care",
+        "order_date": "2013-06-15",
+        "total_revenue": 36369.85,
+        "total_profit": 11151.7,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 581689441,
+        "item_type": "Baby Food",
+        "order_date": "2017-05-07",
+        "total_revenue": 941217.36,
+        "total_profit": 353435.82,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 193508565,
+        "item_type": "Office Supplies",
+        "order_date": "2015-05-21",
+        "total_revenue": 1523180.19,
+        "total_profit": 295298.75,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 750110709,
+        "item_type": "Beverages",
+        "order_date": "2016-06-28",
+        "total_revenue": 155778.35,
+        "total_profit": 51411.78,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 940607202,
+        "item_type": "Fruits",
+        "order_date": "2015-07-06",
+        "total_revenue": 50643.24,
+        "total_profit": 13081.48,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 424421870,
+        "item_type": "Personal Care",
+        "order_date": "2012-02-18",
+        "total_revenue": 385602.14,
+        "total_profit": 118233.08,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 281291043,
+        "item_type": "Office Supplies",
+        "order_date": "2014-09-09",
+        "total_revenue": 5942291.25,
+        "total_profit": 1152031.25,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 761263549,
+        "item_type": "Personal Care",
+        "order_date": "2013-08-24",
+        "total_revenue": 298804.88,
+        "total_profit": 91619.36,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 834700715,
+        "item_type": "Personal Care",
+        "order_date": "2015-09-04",
+        "total_revenue": 436846.85,
+        "total_profit": 133945.7,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 442276370,
+        "item_type": "Cosmetics",
+        "order_date": "2017-02-26",
+        "total_revenue": 3611709.2,
+        "total_profit": 1436340.07,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 944976842,
+        "item_type": "Personal Care",
+        "order_date": "2015-07-15",
+        "total_revenue": 694868.46,
+        "total_profit": 213060.12,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 174100959,
+        "item_type": "Office Supplies",
+        "order_date": "2013-02-09",
+        "total_revenue": 5989178.37,
+        "total_profit": 1161121.25,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 981260049,
+        "item_type": "Snacks",
+        "order_date": "2013-03-27",
+        "total_revenue": 840563.22,
+        "total_profit": 303766.26,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 888377940,
+        "item_type": "Cereal",
+        "order_date": "2016-07-23",
+        "total_revenue": 1980685.3,
+        "total_profit": 853033.11,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 637690961,
+        "item_type": "Vegetables",
+        "order_date": "2017-03-18",
+        "total_revenue": 890620.86,
+        "total_profit": 364954.53,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 141747939,
+        "item_type": "Household",
+        "order_date": "2014-03-03",
+        "total_revenue": 3488369.4,
+        "total_profit": 865110.6,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 733410203,
+        "item_type": "Cereal",
+        "order_date": "2015-01-23",
+        "total_revenue": 253422.4,
+        "total_profit": 109142.88,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 215851581,
+        "item_type": "Meat",
+        "order_date": "2017-03-17",
+        "total_revenue": 1744093.26,
+        "total_profit": 236464.8,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 512558400,
+        "item_type": "Household",
+        "order_date": "2011-06-08",
+        "total_revenue": 4194062.52,
+        "total_profit": 1040121.48,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 917329490,
+        "item_type": "Meat",
+        "order_date": "2016-02-14",
+        "total_revenue": 2968418.04,
+        "total_profit": 402459.2,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 344276177,
+        "item_type": "Personal Care",
+        "order_date": "2012-11-11",
+        "total_revenue": 639618.98,
+        "total_profit": 196119.56,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 477822291,
+        "item_type": "Personal Care",
+        "order_date": "2010-10-26",
+        "total_revenue": 579383.97,
+        "total_profit": 177650.34,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 822704160,
+        "item_type": "Beverages",
+        "order_date": "2012-08-21",
+        "total_revenue": 251390.1,
+        "total_profit": 82966.68,
+        "profit_per_unit": 15.659999999999998,
+        "efficiency_score": 14.876999999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 953970611,
+        "item_type": "Cosmetics",
+        "order_date": "2010-09-05",
+        "total_revenue": 4353637.6,
+        "total_profit": 1731397.46,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 966982972,
+        "item_type": "Personal Care",
+        "order_date": "2013-07-05",
+        "total_revenue": 49446.65,
+        "total_profit": 15161.3,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 127415072,
+        "item_type": "Household",
+        "order_date": "2011-10-29",
+        "total_revenue": 2543435.62,
+        "total_profit": 630768.38,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 921253240,
+        "item_type": "Vegetables",
+        "order_date": "2012-07-18",
+        "total_revenue": 1257283.66,
+        "total_profit": 515203.93,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 504796302,
+        "item_type": "Beverages",
+        "order_date": "2012-04-12",
+        "total_revenue": 441190.1,
+        "total_profit": 145606.68,
+        "profit_per_unit": 15.659999999999998,
+        "efficiency_score": 14.876999999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 154655587,
+        "item_type": "Office Supplies",
+        "order_date": "2016-04-14",
+        "total_revenue": 3177904.8,
+        "total_profit": 616100.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 317754924,
+        "item_type": "Snacks",
+        "order_date": "2011-12-13",
+        "total_revenue": 1464462.84,
+        "total_profit": 529233.72,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 161330640,
+        "item_type": "Baby Food",
+        "order_date": "2010-06-10",
+        "total_revenue": 44929.28,
+        "total_profit": 16871.36,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 722931563,
+        "item_type": "Beverages",
+        "order_date": "2012-08-21",
+        "total_revenue": 17556.5,
+        "total_profit": 5794.2,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 860419023,
+        "item_type": "Cereal",
+        "order_date": "2012-11-28",
+        "total_revenue": 1226794.8,
+        "total_profit": 528350.76,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 401966845,
+        "item_type": "Office Supplies",
+        "order_date": "2010-06-23",
+        "total_revenue": 6366880.17,
+        "total_profit": 1234346.25,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 596061360,
+        "item_type": "Unknown",
+        "order_date": "2013-03-11",
+        "total_revenue": 62109.81,
+        "total_profit": 16043.37,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 961501395,
+        "item_type": "Vegetables",
+        "order_date": "2011-01-18",
+        "total_revenue": 1307045.04,
+        "total_profit": 535594.92,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 637398278,
+        "item_type": "Beverages",
+        "order_date": "2010-04-01",
+        "total_revenue": 435116.5,
+        "total_profit": 143602.2,
+        "profit_per_unit": 15.660000000000002,
+        "efficiency_score": 14.877,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 633175837,
+        "item_type": "Personal Care",
+        "order_date": "2014-04-08",
+        "total_revenue": 789184.88,
+        "total_profit": 241979.36,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 678570401,
+        "item_type": "Vegetables",
+        "order_date": "2012-07-05",
+        "total_revenue": 449238.96,
+        "total_profit": 184087.08,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 573630797,
+        "item_type": "Meat",
+        "order_date": "2014-05-15",
+        "total_revenue": 3778024.95,
+        "total_profit": 512226.0,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 638718354,
+        "item_type": "Cosmetics",
+        "order_date": "2015-02-28",
+        "total_revenue": 4288932.0,
+        "total_profit": 1705664.7,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 364506900,
+        "item_type": "Meat",
+        "order_date": "2015-01-18",
+        "total_revenue": 1918333.83,
+        "total_profit": 260088.4,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 661982762,
+        "item_type": "Vegetables",
+        "order_date": "2015-04-07",
+        "total_revenue": 657065.9,
+        "total_profit": 269249.45,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 712444770,
+        "item_type": "Personal Care",
+        "order_date": "2014-04-27",
+        "total_revenue": 579792.62,
+        "total_profit": 177775.64,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 217504251,
+        "item_type": "Baby Food",
+        "order_date": "2011-10-16",
+        "total_revenue": 815874.88,
+        "total_profit": 306368.56,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 749085032,
+        "item_type": "Meat",
+        "order_date": "2012-02-06",
+        "total_revenue": 4118490.18,
+        "total_profit": 558386.4,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 799423444,
+        "item_type": "Meat",
+        "order_date": "2013-03-02",
+        "total_revenue": 2538512.13,
+        "total_profit": 344172.4,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 731068313,
+        "item_type": "Snacks",
+        "order_date": "2010-03-11",
+        "total_revenue": 1253444.7,
+        "total_profit": 452975.1,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 526880967,
+        "item_type": "Household",
+        "order_date": "2014-07-29",
+        "total_revenue": 3101441.07,
+        "total_profit": 769152.93,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 240035235,
+        "item_type": "Clothes",
+        "order_date": "2012-04-16",
+        "total_revenue": 67207.2,
+        "total_profit": 45165.6,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 444017446,
+        "item_type": "Cosmetics",
+        "order_date": "2013-01-31",
+        "total_revenue": 1523204.8,
+        "total_profit": 605763.08,
+        "profit_per_unit": 173.86999999999998,
+        "efficiency_score": 165.17649999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 882626426,
+        "item_type": "Office Supplies",
+        "order_date": "2016-06-01",
+        "total_revenue": 4967429.88,
+        "total_profit": 963035.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 919973504,
+        "item_type": "Office Supplies",
+        "order_date": "2015-03-27",
+        "total_revenue": 6159795.39,
+        "total_profit": 1194198.75,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 890482509,
+        "item_type": "Meat",
+        "order_date": "2014-11-28",
+        "total_revenue": 1020130.02,
+        "total_profit": 138309.6,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 748889768,
+        "item_type": "Meat",
+        "order_date": "2014-04-22",
+        "total_revenue": 834920.31,
+        "total_profit": 113198.8,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 520244109,
+        "item_type": "Meat",
+        "order_date": "2017-02-21",
+        "total_revenue": 273384.72,
+        "total_profit": 37065.6,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 749906861,
+        "item_type": "Vegetables",
+        "order_date": "2013-01-19",
+        "total_revenue": 456017.6,
+        "total_profit": 186864.8,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 253551852,
+        "item_type": "Snacks",
+        "order_date": "2011-09-02",
+        "total_revenue": 73543.56,
+        "total_profit": 26577.48,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 167165410,
+        "item_type": "Household",
+        "order_date": "2016-02-13",
+        "total_revenue": 4553591.78,
+        "total_profit": 1129284.22,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 797046363,
+        "item_type": "Meat",
+        "order_date": "2011-08-28",
+        "total_revenue": 1091007.54,
+        "total_profit": 147919.2,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 269806039,
+        "item_type": "Clothes",
+        "order_date": "2014-11-24",
+        "total_revenue": 49940.96,
+        "total_profit": 33562.08,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 382368266,
+        "item_type": "Cosmetics",
+        "order_date": "2017-01-05",
+        "total_revenue": 53338.4,
+        "total_profit": 21212.14,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 751969373,
+        "item_type": "Beverages",
+        "order_date": "2010-03-30",
+        "total_revenue": 156727.35,
+        "total_profit": 51724.98,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 166158187,
+        "item_type": "Office Supplies",
+        "order_date": "2014-05-25",
+        "total_revenue": 5701343.55,
+        "total_profit": 1105318.75,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 632796037,
+        "item_type": "Beverages",
+        "order_date": "2012-06-25",
+        "total_revenue": 344676.8,
+        "total_profit": 113754.24,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 630056750,
+        "item_type": "Personal Care",
+        "order_date": "2015-01-30",
+        "total_revenue": 543422.77,
+        "total_profit": 166623.94,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 956426656,
+        "item_type": "Office Supplies",
+        "order_date": "2011-02-11",
+        "total_revenue": 4399574.76,
+        "total_profit": 852945.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 680704581,
+        "item_type": "Personal Care",
+        "order_date": "2017-01-30",
+        "total_revenue": 365087.91,
+        "total_profit": 111943.02,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 292001855,
+        "item_type": "Beverages",
+        "order_date": "2012-09-03",
+        "total_revenue": 412482.85,
+        "total_profit": 136132.38,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 349742305,
+        "item_type": "Vegetables",
+        "order_date": "2012-09-26",
+        "total_revenue": 828072.5,
+        "total_profit": 339323.75,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 133662259,
+        "item_type": "Meat",
+        "order_date": "2010-06-13",
+        "total_revenue": 1049662.32,
+        "total_profit": 142313.6,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 793810546,
+        "item_type": "Fruits",
+        "order_date": "2011-06-04",
+        "total_revenue": 46985.88,
+        "total_profit": 12136.76,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 400548493,
+        "item_type": "Cereal",
+        "order_date": "2014-10-06",
+        "total_revenue": 11313.5,
+        "total_profit": 4872.45,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 694549930,
+        "item_type": "Household",
+        "order_date": "2016-11-03",
+        "total_revenue": 1077919.51,
+        "total_profit": 267322.49,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 336801183,
+        "item_type": "Vegetables",
+        "order_date": "2015-02-10",
+        "total_revenue": 894934.54,
+        "total_profit": 366722.17,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 758601081,
+        "item_type": "Personal Care",
+        "order_date": "2011-11-12",
+        "total_revenue": 471745.56,
+        "total_profit": 144646.32,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 311560952,
+        "item_type": "Personal Care",
+        "order_date": "2010-06-18",
+        "total_revenue": 544648.72,
+        "total_profit": 166999.84,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 117604625,
+        "item_type": "Clothes",
+        "order_date": "2011-07-18",
+        "total_revenue": 73982.56,
+        "total_profit": 49718.88,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 918968427,
+        "item_type": "Cereal",
+        "order_date": "2016-10-25",
+        "total_revenue": 418393.8,
+        "total_profit": 180192.06,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 828201186,
+        "item_type": "Clothes",
+        "order_date": "2010-02-11",
+        "total_revenue": 217467.2,
+        "total_profit": 146145.6,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 278164231,
+        "item_type": "Household",
+        "order_date": "2014-03-17",
+        "total_revenue": 2560810.64,
+        "total_profit": 635077.36,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 672031390,
+        "item_type": "Snacks",
+        "order_date": "2011-04-11",
+        "total_revenue": 1201872.66,
+        "total_profit": 434337.78,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 333288991,
+        "item_type": "Baby Food",
+        "order_date": "2014-11-08",
+        "total_revenue": 1652682.72,
+        "total_profit": 620597.64,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 355735862,
+        "item_type": "Baby Food",
+        "order_date": "2013-01-16",
+        "total_revenue": 2298030.56,
+        "total_profit": 862931.72,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 553483331,
+        "item_type": "Meat",
+        "order_date": "2010-02-23",
+        "total_revenue": 2899228.08,
+        "total_profit": 0.0,
+        "profit_per_unit": 0.0,
+        "efficiency_score": 0.0,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 810955226,
+        "item_type": "Cosmetics",
+        "order_date": "2015-04-30",
+        "total_revenue": 3728004.4,
+        "total_profit": 1482589.49,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 632887876,
+        "item_type": "Vegetables",
+        "order_date": "2016-02-03",
+        "total_revenue": 684180.46,
+        "total_profit": 280360.33,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 494330108,
+        "item_type": "Household",
+        "order_date": "2012-05-12",
+        "total_revenue": 1416064.13,
+        "total_profit": 351181.87,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 490643250,
+        "item_type": "Vegetables",
+        "order_date": "2012-09-18",
+        "total_revenue": 168849.76,
+        "total_profit": 69190.48,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 787501132,
+        "item_type": "Snacks",
+        "order_date": "2015-06-02",
+        "total_revenue": 1211485.2,
+        "total_profit": 437811.6,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 270890080,
+        "item_type": "Fruits",
+        "order_date": "2012-03-28",
+        "total_revenue": 11653.17,
+        "total_profit": 3010.09,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 597108924,
+        "item_type": "Snacks",
+        "order_date": "2014-12-09",
+        "total_revenue": 1015419.9,
+        "total_profit": 366956.7,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 342768990,
+        "item_type": "Office Supplies",
+        "order_date": "2013-08-17",
+        "total_revenue": 1182597.36,
+        "total_profit": 229270.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 854794108,
+        "item_type": "Fruits",
+        "order_date": "2010-11-02",
+        "total_revenue": 13313.91,
+        "total_profit": 3439.07,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 400420606,
+        "item_type": "Cereal",
+        "order_date": "2010-03-01",
+        "total_revenue": 454597.0,
+        "total_profit": 195783.9,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 917197310,
+        "item_type": "Clothes",
+        "order_date": "2012-06-27",
+        "total_revenue": 865606.88,
+        "total_profit": 581718.24,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 362985551,
+        "item_type": "Baby Food",
+        "order_date": "2012-03-05",
+        "total_revenue": 1109446.88,
+        "total_profit": 416607.56,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 365959155,
+        "item_type": "Meat",
+        "order_date": "2016-01-08",
+        "total_revenue": 1814548.89,
+        "total_profit": 246017.2,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 374604451,
+        "item_type": "Beverages",
+        "order_date": "2016-09-24",
+        "total_revenue": 125078.2,
+        "total_profit": 41279.76,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 807720267,
+        "item_type": "Household",
+        "order_date": "2011-11-16",
+        "total_revenue": 822640.37,
+        "total_profit": 204013.63,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 804417932,
+        "item_type": "Cosmetics",
+        "order_date": "2015-03-22",
+        "total_revenue": 1747488.4,
+        "total_profit": 694958.39,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 474121272,
+        "item_type": "Beverages",
+        "order_date": "2015-02-09",
+        "total_revenue": 88968.75,
+        "total_profit": 29362.5,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 446566617,
+        "item_type": "Baby Food",
+        "order_date": "2016-01-30",
+        "total_revenue": 2001650.48,
+        "total_profit": 751638.26,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 521802794,
+        "item_type": "Clothes",
+        "order_date": "2012-05-20",
+        "total_revenue": 207304.16,
+        "total_profit": 139315.68,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 120191133,
+        "item_type": "Fruits",
+        "order_date": "2014-06-26",
+        "total_revenue": 56745.06,
+        "total_profit": 14657.62,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 532405459,
+        "item_type": "Personal Care",
+        "order_date": "2014-12-21",
+        "total_revenue": 773329.26,
+        "total_profit": 237117.72,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 869432103,
+        "item_type": "Personal Care",
+        "order_date": "2015-01-28",
+        "total_revenue": 256223.55,
+        "total_profit": 78563.1,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 312569892,
+        "item_type": "Vegetables",
+        "order_date": "2013-04-24",
+        "total_revenue": 806041.92,
+        "total_profit": 330296.16,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 363430154,
+        "item_type": "Office Supplies",
+        "order_date": "2016-10-28",
+        "total_revenue": 3851255.94,
+        "total_profit": 746642.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 793936717,
+        "item_type": "Clothes",
+        "order_date": "2014-11-22",
+        "total_revenue": 259212.16,
+        "total_profit": 174199.68,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 996325910,
+        "item_type": "Snacks",
+        "order_date": "2013-01-04",
+        "total_revenue": 584686.56,
+        "total_profit": 211296.48,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 433146560,
+        "item_type": "Meat",
+        "order_date": "2013-12-11",
+        "total_revenue": 2762113.83,
+        "total_profit": 374488.4,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 887259995,
+        "item_type": "Beverages",
+        "order_date": "2013-12-16",
+        "total_revenue": 417749.8,
+        "total_profit": 137870.64,
+        "profit_per_unit": 15.660000000000002,
+        "efficiency_score": 14.877,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 611840045,
+        "item_type": "Household",
+        "order_date": "2014-03-02",
+        "total_revenue": 3956826.67,
+        "total_profit": 981287.33,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 180373036,
+        "item_type": "Cereal",
+        "order_date": "2016-09-28",
+        "total_revenue": 1078896.5,
+        "total_profit": 464654.55,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 236657798,
+        "item_type": "Meat",
+        "order_date": "2013-07-29",
+        "total_revenue": 487704.84,
+        "total_profit": 66123.2,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 144805657,
+        "item_type": "Beverages",
+        "order_date": "2012-10-02",
+        "total_revenue": 3179.15,
+        "total_profit": 1049.22,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 239240443,
+        "item_type": "Personal Care",
+        "order_date": "2012-01-30",
+        "total_revenue": 442813.14,
+        "total_profit": 135775.08,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 474698483,
+        "item_type": "Meat",
+        "order_date": "2010-06-03",
+        "total_revenue": 1132774.65,
+        "total_profit": 153582.0,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 876228606,
+        "item_type": "Personal Care",
+        "order_date": "2011-06-28",
+        "total_revenue": 357241.83,
+        "total_profit": 109537.26,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 189192140,
+        "item_type": "Household",
+        "order_date": "2012-06-30",
+        "total_revenue": 3350037.51,
+        "total_profit": 830804.49,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 829262912,
+        "item_type": "Household",
+        "order_date": "2015-07-02",
+        "total_revenue": 4129240.33,
+        "total_profit": 1024045.67,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 332427251,
+        "item_type": "Cosmetics",
+        "order_date": "2016-01-19",
+        "total_revenue": 640935.2,
+        "total_profit": 254893.42,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 804983985,
+        "item_type": "Baby Food",
+        "order_date": "2014-07-21",
+        "total_revenue": 384196.4,
+        "total_profit": 144269.3,
+        "profit_per_unit": 95.85999999999999,
+        "efficiency_score": 91.06699999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 373544442,
+        "item_type": "Office Supplies",
+        "order_date": "2012-06-23",
+        "total_revenue": 5832236.76,
+        "total_profit": 1130695.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 835032451,
+        "item_type": "Cosmetics",
+        "order_date": "2016-02-20",
+        "total_revenue": 1535883.6,
+        "total_profit": 610805.31,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 906684339,
+        "item_type": "Meat",
+        "order_date": "2010-03-16",
+        "total_revenue": 2910619.11,
+        "total_profit": 394622.8,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 276048934,
+        "item_type": "Snacks",
+        "order_date": "2014-06-26",
+        "total_revenue": 1200652.02,
+        "total_profit": 433896.66,
+        "profit_per_unit": 55.13999999999999,
+        "efficiency_score": 52.38299999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 950987565,
+        "item_type": "Vegetables",
+        "order_date": "2011-12-26",
+        "total_revenue": 1110464.48,
+        "total_profit": 455041.04,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 509674060,
+        "item_type": "Vegetables",
+        "order_date": "2013-04-15",
+        "total_revenue": 421354.1,
+        "total_profit": 172660.55,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 650594747,
+        "item_type": "Household",
+        "order_date": "2014-11-22",
+        "total_revenue": 2872224.46,
+        "total_profit": 712307.54,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 442548453,
+        "item_type": "Meat",
+        "order_date": "2010-07-28",
+        "total_revenue": 3702928.53,
+        "total_profit": 502044.4,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 374646508,
+        "item_type": "Clothes",
+        "order_date": "2010-04-25",
+        "total_revenue": 555360.96,
+        "total_profit": 373222.08,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 106312739,
+        "item_type": "Fruits",
+        "order_date": "2013-10-24",
+        "total_revenue": 85434.81,
+        "total_profit": 22068.37,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 717283475,
+        "item_type": "Clothes",
+        "order_date": "2014-04-04",
+        "total_revenue": 980788.0,
+        "total_profit": 659124.0,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 657607543,
+        "item_type": "Cereal",
+        "order_date": "2017-04-01",
+        "total_revenue": 1962378.0,
+        "total_profit": 845148.6,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 697646272,
+        "item_type": "Household",
+        "order_date": "2014-04-28",
+        "total_revenue": 5272650.3,
+        "total_profit": 1307609.7,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 778073489,
+        "item_type": "Fruits",
+        "order_date": "2017-01-01",
+        "total_revenue": 75489.03,
+        "total_profit": 19499.31,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 459875524,
+        "item_type": "Cosmetics",
+        "order_date": "2015-02-28",
+        "total_revenue": 2729002.4,
+        "total_profit": 1085296.54,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 274351203,
+        "item_type": "Snacks",
+        "order_date": "2011-02-03",
+        "total_revenue": 834917.76,
+        "total_profit": 301726.08,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 373111855,
+        "item_type": "Meat",
+        "order_date": "2015-09-25",
+        "total_revenue": 398264.16,
+        "total_profit": 53996.8,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 978081309,
+        "item_type": "Personal Care",
+        "order_date": "2014-07-29",
+        "total_revenue": 396308.77,
+        "total_profit": 121515.94,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 131495893,
+        "item_type": "Baby Food",
+        "order_date": "2016-11-23",
+        "total_revenue": 360455.36,
+        "total_profit": 135354.32,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 445904433,
+        "item_type": "Baby Food",
+        "order_date": "2014-02-08",
+        "total_revenue": 481458.08,
+        "total_profit": 180791.96,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 554168260,
+        "item_type": "Office Supplies",
+        "order_date": "2013-10-30",
+        "total_revenue": 6224265.18,
+        "total_profit": 1206697.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 959461200,
+        "item_type": "Vegetables",
+        "order_date": "2013-05-22",
+        "total_revenue": 731014.7,
+        "total_profit": 299551.85,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 885269582,
+        "item_type": "Meat",
+        "order_date": "2011-03-06",
+        "total_revenue": 4133256.33,
+        "total_profit": 560388.4,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 525392234,
+        "item_type": "Clothes",
+        "order_date": "2010-06-09",
+        "total_revenue": 447173.76,
+        "total_profit": 300516.48,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 593940484,
+        "item_type": "Personal Care",
+        "order_date": "2015-06-24",
+        "total_revenue": 739084.39,
+        "total_profit": 226617.58,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 975338160,
+        "item_type": "Snacks",
+        "order_date": "2012-09-26",
+        "total_revenue": 471624.78,
+        "total_profit": 170437.74,
+        "profit_per_unit": 55.13999999999999,
+        "efficiency_score": 52.38299999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 274321591,
+        "item_type": "Beverages",
+        "order_date": "2012-06-10",
+        "total_revenue": 318389.5,
+        "total_profit": 105078.6,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 765939605,
+        "item_type": "Vegetables",
+        "order_date": "2014-07-09",
+        "total_revenue": 1140814.3,
+        "total_profit": 467477.65,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 745553529,
+        "item_type": "Vegetables",
+        "order_date": "2012-05-24",
+        "total_revenue": 725930.72,
+        "total_profit": 297468.56,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 378837192,
+        "item_type": "Vegetables",
+        "order_date": "2011-11-29",
+        "total_revenue": 800803.88,
+        "total_profit": 328149.74,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 351776921,
+        "item_type": "Office Supplies",
+        "order_date": "2012-05-28",
+        "total_revenue": 4859980.23,
+        "total_profit": 942203.75,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 520671546,
+        "item_type": "Beverages",
+        "order_date": "2010-07-02",
+        "total_revenue": 338603.2,
+        "total_profit": 111749.76,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 362132394,
+        "item_type": "Household",
+        "order_date": "2011-06-11",
+        "total_revenue": 1255011.06,
+        "total_profit": 311240.94,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 323083293,
+        "item_type": "Beverages",
+        "order_date": "2010-03-14",
+        "total_revenue": 302778.45,
+        "total_profit": 99926.46,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 470760571,
+        "item_type": "Fruits",
+        "order_date": "2010-05-12",
+        "total_revenue": 68752.77,
+        "total_profit": 17759.29,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 942713057,
+        "item_type": "Snacks",
+        "order_date": "2012-10-23",
+        "total_revenue": 1311882.84,
+        "total_profit": 474093.72,
+        "profit_per_unit": 55.13999999999999,
+        "efficiency_score": 52.38299999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 596802079,
+        "item_type": "Cereal",
+        "order_date": "2011-11-30",
+        "total_revenue": 1203756.4,
+        "total_profit": 518428.68,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 161201465,
+        "item_type": "Snacks",
+        "order_date": "2014-06-18",
+        "total_revenue": 297531.0,
+        "total_profit": 107523.0,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 884397542,
+        "item_type": "Household",
+        "order_date": "2013-03-03",
+        "total_revenue": 1163458.07,
+        "total_profit": 288535.93,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 485189139,
+        "item_type": "Cosmetics",
+        "order_date": "2013-03-04",
+        "total_revenue": 3105431.6,
+        "total_profit": 1234998.61,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 802687585,
+        "item_type": "Personal Care",
+        "order_date": "2013-02-04",
+        "total_revenue": 159291.77,
+        "total_profit": 48841.94,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 146316707,
+        "item_type": "Office Supplies",
+        "order_date": "2016-06-03",
+        "total_revenue": 4701736.2,
+        "total_profit": 911525.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 945812833,
+        "item_type": "Snacks",
+        "order_date": "2012-07-20",
+        "total_revenue": 898696.2,
+        "total_profit": 324774.6,
+        "profit_per_unit": 55.13999999999999,
+        "efficiency_score": 52.38299999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 301224792,
+        "item_type": "Fruits",
+        "order_date": "2010-11-15",
+        "total_revenue": 74313.45,
+        "total_profit": 19195.65,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 332913911,
+        "item_type": "Meat",
+        "order_date": "2014-04-13",
+        "total_revenue": 2311535.31,
+        "total_profit": 313398.8,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 531554019,
+        "item_type": "Clothes",
+        "order_date": "2015-05-15",
+        "total_revenue": 819709.28,
+        "total_profit": 550873.44,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 908131444,
+        "item_type": "Baby Food",
+        "order_date": "2015-05-13",
+        "total_revenue": 1309586.4,
+        "total_profit": 491761.8,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 643945014,
+        "item_type": "Cosmetics",
+        "order_date": "2012-10-10",
+        "total_revenue": 2839176.8,
+        "total_profit": 1129111.78,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 340606057,
+        "item_type": "Beverages",
+        "order_date": "2014-10-04",
+        "total_revenue": 83322.2,
+        "total_profit": 27498.96,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 670038402,
+        "item_type": "Cosmetics",
+        "order_date": "2010-08-02",
+        "total_revenue": 3544817.6,
+        "total_profit": 1409737.96,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 124478375,
+        "item_type": "Office Supplies",
+        "order_date": "2013-04-29",
+        "total_revenue": 3107574.12,
+        "total_profit": 602465.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 866474807,
+        "item_type": "Vegetables",
+        "order_date": "2010-08-07",
+        "total_revenue": 1233250.3,
+        "total_profit": 505355.65,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 178889024,
+        "item_type": "Fruits",
+        "order_date": "2013-10-25",
+        "total_revenue": 56838.36,
+        "total_profit": 14681.72,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 814894855,
+        "item_type": "Snacks",
+        "order_date": "2016-07-07",
+        "total_revenue": 663875.58,
+        "total_profit": 239914.14,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 647978627,
+        "item_type": "Cosmetics",
+        "order_date": "2013-04-20",
+        "total_revenue": 56836.0,
+        "total_profit": 22603.1,
+        "profit_per_unit": 173.86999999999998,
+        "efficiency_score": 165.17649999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 321939170,
+        "item_type": "Clothes",
+        "order_date": "2011-03-16",
+        "total_revenue": 853367.52,
+        "total_profit": 573492.96,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 100887811,
+        "item_type": "Personal Care",
+        "order_date": "2010-09-30",
+        "total_revenue": 310574.0,
+        "total_profit": 95228.0,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 319248378,
+        "item_type": "Beverages",
+        "order_date": "2017-04-19",
+        "total_revenue": 73262.8,
+        "total_profit": 24179.04,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 931757199,
+        "item_type": "Household",
+        "order_date": "2014-07-31",
+        "total_revenue": 4354447.32,
+        "total_profit": 1079896.68,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 163463103,
+        "item_type": "Snacks",
+        "order_date": "2013-11-18",
+        "total_revenue": 186147.6,
+        "total_profit": 67270.8,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 359727418,
+        "item_type": "Cosmetics",
+        "order_date": "2012-05-30",
+        "total_revenue": 83942.4,
+        "total_profit": 33383.04,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 336223971,
+        "item_type": "Clothes",
+        "order_date": "2012-03-24",
+        "total_revenue": 546400.0,
+        "total_profit": 367200.0,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 328939092,
+        "item_type": "Beverages",
+        "order_date": "2016-06-15",
+        "total_revenue": 438532.9,
+        "total_profit": 144729.72,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 644171607,
+        "item_type": "Household",
+        "order_date": "2010-05-08",
+        "total_revenue": 2371021.96,
+        "total_profit": 588010.04,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 308532845,
+        "item_type": "Fruits",
+        "order_date": "2010-07-12",
+        "total_revenue": 5411.4,
+        "total_profit": 1397.8,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 218946635,
+        "item_type": "Office Supplies",
+        "order_date": "2015-09-26",
+        "total_revenue": 19536.3,
+        "total_profit": 3787.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 892649304,
+        "item_type": "Vegetables",
+        "order_date": "2010-08-21",
+        "total_revenue": 557851.26,
+        "total_profit": 228593.73,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 217189681,
+        "item_type": "Meat",
+        "order_date": "2015-01-16",
+        "total_revenue": 45564.12,
+        "total_profit": 6177.6,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 200429093,
+        "item_type": "Cereal",
+        "order_date": "2011-12-17",
+        "total_revenue": 57184.6,
+        "total_profit": 24628.02,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 220541369,
+        "item_type": "Fruits",
+        "order_date": "2011-12-21",
+        "total_revenue": 18165.51,
+        "total_profit": 4692.27,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 176012837,
+        "item_type": "Baby Food",
+        "order_date": "2011-07-27",
+        "total_revenue": 1267465.2,
+        "total_profit": 475944.9,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 935642325,
+        "item_type": "Personal Care",
+        "order_date": "2012-02-09",
+        "total_revenue": 507625.03,
+        "total_profit": 155647.66,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 288541162,
+        "item_type": "Clothes",
+        "order_date": "2015-12-31",
+        "total_revenue": 502360.16,
+        "total_profit": 337603.68,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 594133174,
+        "item_type": "Office Supplies",
+        "order_date": "2015-05-13",
+        "total_revenue": 3948937.44,
+        "total_profit": 765580.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 232154691,
+        "item_type": "Fruits",
+        "order_date": "2010-12-18",
+        "total_revenue": 80116.71,
+        "total_profit": 20694.67,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 352654540,
+        "item_type": "Cosmetics",
+        "order_date": "2015-12-23",
+        "total_revenue": 3134724.0,
+        "total_profit": 1246647.9,
+        "profit_per_unit": 173.86999999999998,
+        "efficiency_score": 165.17649999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 825994050,
+        "item_type": "Meat",
+        "order_date": "2014-05-11",
+        "total_revenue": 3733726.5,
+        "total_profit": 506220.0,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 692847049,
+        "item_type": "Cereal",
+        "order_date": "2010-01-23",
+        "total_revenue": 1582450.1,
+        "total_profit": 681522.87,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 414199864,
+        "item_type": "Cosmetics",
+        "order_date": "2015-09-07",
+        "total_revenue": 4284122.8,
+        "total_profit": 1703752.13,
+        "profit_per_unit": 173.86999999999998,
+        "efficiency_score": 165.17649999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 521351325,
+        "item_type": "Vegetables",
+        "order_date": "2010-10-17",
+        "total_revenue": 1278389.88,
+        "total_profit": 523852.74,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 265912759,
+        "item_type": "Household",
+        "order_date": "2013-11-25",
+        "total_revenue": 5579386.23,
+        "total_profit": 1383679.77,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 769807994,
+        "item_type": "Personal Care",
+        "order_date": "2010-07-03",
+        "total_revenue": 175474.31,
+        "total_profit": 53803.82,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 975273358,
+        "item_type": "Cereal",
+        "order_date": "2017-06-12",
+        "total_revenue": 805109.8,
+        "total_profit": 346741.26,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 794857680,
+        "item_type": "Office Supplies",
+        "order_date": "2010-12-31",
+        "total_revenue": 3194836.26,
+        "total_profit": 619382.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 661422288,
+        "item_type": "Office Supplies",
+        "order_date": "2013-12-03",
+        "total_revenue": 5475373.68,
+        "total_profit": 1061510.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 178141009,
+        "item_type": "Cereal",
+        "order_date": "2015-12-22",
+        "total_revenue": 974606.6,
+        "total_profit": 419739.42,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 368500173,
+        "item_type": "Cosmetics",
+        "order_date": "2015-07-18",
+        "total_revenue": 2730314.0,
+        "total_profit": 1085818.15,
+        "profit_per_unit": 173.86999999999998,
+        "efficiency_score": 165.17649999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 526298606,
+        "item_type": "Personal Care",
+        "order_date": "2015-11-17",
+        "total_revenue": 188632.84,
+        "total_profit": 57838.48,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 465647637,
+        "item_type": "Beverages",
+        "order_date": "2013-09-15",
+        "total_revenue": 205838.1,
+        "total_profit": 67933.08,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 970971095,
+        "item_type": "Clothes",
+        "order_date": "2010-08-14",
+        "total_revenue": 85129.12,
+        "total_profit": 57209.76,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 647005307,
+        "item_type": "Household",
+        "order_date": "2016-11-02",
+        "total_revenue": 1405371.81,
+        "total_profit": 348530.19,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 868799102,
+        "item_type": "Cosmetics",
+        "order_date": "2017-02-24",
+        "total_revenue": 2542755.2,
+        "total_profit": 1011227.92,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 831713807,
+        "item_type": "Office Supplies",
+        "order_date": "2012-07-19",
+        "total_revenue": 946208.13,
+        "total_profit": 183441.25,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 701423251,
+        "item_type": "Beverages",
+        "order_date": "2016-06-13",
+        "total_revenue": 264865.9,
+        "total_profit": 87414.12,
+        "profit_per_unit": 15.659999999999998,
+        "efficiency_score": 14.876999999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 263913762,
+        "item_type": "Clothes",
+        "order_date": "2013-01-17",
+        "total_revenue": 743322.56,
+        "total_profit": 499538.88,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 275484168,
+        "item_type": "Cosmetics",
+        "order_date": "2014-02-08",
+        "total_revenue": 324402.4,
+        "total_profit": 129011.54,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 212745797,
+        "item_type": "Cosmetics",
+        "order_date": "2017-04-21",
+        "total_revenue": 2213980.8,
+        "total_profit": 880477.68,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 522622478,
+        "item_type": "Clothes",
+        "order_date": "2010-01-12",
+        "total_revenue": 487388.8,
+        "total_profit": 327542.4,
+        "profit_per_unit": 73.44000000000001,
+        "efficiency_score": 69.76800000000001,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 372350537,
+        "item_type": "Household",
+        "order_date": "2011-01-12",
+        "total_revenue": 3777730.31,
+        "total_profit": 936871.69,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 799478805,
+        "item_type": "Baby Food",
+        "order_date": "2013-08-10",
+        "total_revenue": 612416.72,
+        "total_profit": 229968.14,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 661868607,
+        "item_type": "Vegetables",
+        "order_date": "2012-02-16",
+        "total_revenue": 74565.04,
+        "total_profit": 30554.92,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 687693774,
+        "item_type": "Office Supplies",
+        "order_date": "2013-05-19",
+        "total_revenue": 1774547.25,
+        "total_profit": 344031.25,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 325440633,
+        "item_type": "Household",
+        "order_date": "2010-01-31",
+        "total_revenue": 2653031.9,
+        "total_profit": 657948.1,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 893908011,
+        "item_type": "Snacks",
+        "order_date": "2014-12-11",
+        "total_revenue": 930738.0,
+        "total_profit": 336354.0,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 632207238,
+        "item_type": "Cosmetics",
+        "order_date": "2011-06-12",
+        "total_revenue": 1322967.2,
+        "total_profit": 526130.62,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 549762141,
+        "item_type": "Cosmetics",
+        "order_date": "2010-08-21",
+        "total_revenue": 2487230.8,
+        "total_profit": 989146.43,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 376309049,
+        "item_type": "Beverages",
+        "order_date": "2017-01-24",
+        "total_revenue": 335234.25,
+        "total_profit": 110637.9,
+        "profit_per_unit": 15.659999999999998,
+        "efficiency_score": 14.876999999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 811896789,
+        "item_type": "Snacks",
+        "order_date": "2017-05-29",
+        "total_revenue": 1092015.06,
+        "total_profit": 394636.98,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 376886689,
+        "item_type": "Beverages",
+        "order_date": "2014-07-21",
+        "total_revenue": 379647.45,
+        "total_profit": 125295.66,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 361952579,
+        "item_type": "Cosmetics",
+        "order_date": "2016-03-27",
+        "total_revenue": 3788775.2,
+        "total_profit": 1506757.42,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 778080785,
+        "item_type": "Household",
+        "order_date": "2016-02-14",
+        "total_revenue": 167067.5,
+        "total_profit": 41432.5,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 806570136,
+        "item_type": "Fruits",
+        "order_date": "2012-09-18",
+        "total_revenue": 8229.06,
+        "total_profit": 2125.62,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 149031960,
+        "item_type": "Household",
+        "order_date": "2013-03-01",
+        "total_revenue": 483827.48,
+        "total_profit": 119988.52,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 377390086,
+        "item_type": "Snacks",
+        "order_date": "2014-04-29",
+        "total_revenue": 1063177.44,
+        "total_profit": 384215.52,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 883880841,
+        "item_type": "Cereal",
+        "order_date": "2014-02-11",
+        "total_revenue": 1817976.6,
+        "total_profit": 782958.42,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 231053054,
+        "item_type": "Vegetables",
+        "order_date": "2015-04-20",
+        "total_revenue": 398707.28,
+        "total_profit": 163380.44,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 201768052,
+        "item_type": "Snacks",
+        "order_date": "2014-02-23",
+        "total_revenue": 992532.9,
+        "total_profit": 358685.7,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 849199664,
+        "item_type": "Cosmetics",
+        "order_date": "2011-10-07",
+        "total_revenue": 2582540.4,
+        "total_profit": 1027050.09,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 946834218,
+        "item_type": "Meat",
+        "order_date": "2010-05-02",
+        "total_revenue": 3434606.49,
+        "total_profit": 465665.2,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 238470542,
+        "item_type": "Fruits",
+        "order_date": "2016-11-18",
+        "total_revenue": 70796.04,
+        "total_profit": 18287.08,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 788219964,
+        "item_type": "Meat",
+        "order_date": "2016-10-14",
+        "total_revenue": 277603.62,
+        "total_profit": 37637.6,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 230506312,
+        "item_type": "Office Supplies",
+        "order_date": "2015-06-02",
+        "total_revenue": 517711.95,
+        "total_profit": 100368.75,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 320065915,
+        "item_type": "Baby Food",
+        "order_date": "2011-08-23",
+        "total_revenue": 886332.16,
+        "total_profit": 332825.92,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 181947600,
+        "item_type": "Fruits",
+        "order_date": "2016-09-30",
+        "total_revenue": 11130.69,
+        "total_profit": 2875.13,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 361512696,
+        "item_type": "Beverages",
+        "order_date": "2012-10-19",
+        "total_revenue": 403087.75,
+        "total_profit": 133031.7,
+        "profit_per_unit": 15.660000000000002,
+        "efficiency_score": 14.877,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 574435031,
+        "item_type": "Beverages",
+        "order_date": "2017-01-01",
+        "total_revenue": 329587.7,
+        "total_profit": 108774.36,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 156700932,
+        "item_type": "Beverages",
+        "order_date": "2017-05-01",
+        "total_revenue": 6785.35,
+        "total_profit": 2239.38,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 314609229,
+        "item_type": "Meat",
+        "order_date": "2014-03-12",
+        "total_revenue": 3677615.13,
+        "total_profit": 498612.4,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 974771249,
+        "item_type": "Vegetables",
+        "order_date": "2016-08-17",
+        "total_revenue": 820985.74,
+        "total_profit": 336419.77,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 334110820,
+        "item_type": "Snacks",
+        "order_date": "2015-10-22",
+        "total_revenue": 1475601.18,
+        "total_profit": 533258.94,
+        "profit_per_unit": 55.13999999999999,
+        "efficiency_score": 52.38299999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 709864270,
+        "item_type": "Vegetables",
+        "order_date": "2011-07-19",
+        "total_revenue": 534126.02,
+        "total_profit": 218871.71,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 889580428,
+        "item_type": "Vegetables",
+        "order_date": "2016-01-29",
+        "total_revenue": 843016.32,
+        "total_profit": 345447.36,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 181120622,
+        "item_type": "Beverages",
+        "order_date": "2012-05-29",
+        "total_revenue": 307096.4,
+        "total_profit": 101351.52,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 662658679,
+        "item_type": "Vegetables",
+        "order_date": "2011-02-15",
+        "total_revenue": 659993.04,
+        "total_profit": 270448.92,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 432680928,
+        "item_type": "Personal Care",
+        "order_date": "2016-04-16",
+        "total_revenue": 715709.61,
+        "total_profit": 219450.42,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 359986197,
+        "item_type": "Snacks",
+        "order_date": "2014-02-11",
+        "total_revenue": 1032966.6,
+        "total_profit": 373297.8,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 933685815,
+        "item_type": "Beverages",
+        "order_date": "2014-08-01",
+        "total_revenue": 343348.2,
+        "total_profit": 113315.76,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 913203608,
+        "item_type": "Household",
+        "order_date": "2017-05-22",
+        "total_revenue": 4073773.92,
+        "total_profit": 1010290.08,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 478275907,
+        "item_type": "Beverages",
+        "order_date": "2015-09-19",
+        "total_revenue": 62823.8,
+        "total_profit": 20733.84,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 778951537,
+        "item_type": "Vegetables",
+        "order_date": "2015-03-05",
+        "total_revenue": 1220925.5,
+        "total_profit": 500305.25,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 785591828,
+        "item_type": "Meat",
+        "order_date": "2014-11-12",
+        "total_revenue": 1237825.26,
+        "total_profit": 167824.8,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 438870608,
+        "item_type": "Cereal",
+        "order_date": "2011-03-04",
+        "total_revenue": 86599.7,
+        "total_profit": 37296.39,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 199774205,
+        "item_type": "Office Supplies",
+        "order_date": "2016-09-05",
+        "total_revenue": 4221143.22,
+        "total_profit": 818352.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 599601447,
+        "item_type": "Baby Food",
+        "order_date": "2010-12-20",
+        "total_revenue": 1084429.44,
+        "total_profit": 407213.28,
+        "profit_per_unit": 95.86000000000001,
+        "efficiency_score": 91.06700000000001,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 889963662,
+        "item_type": "Baby Food",
+        "order_date": "2012-07-18",
+        "total_revenue": 2266631.12,
+        "total_profit": 851140.94,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 392784678,
+        "item_type": "Snacks",
+        "order_date": "2014-06-24",
+        "total_revenue": 392130.6,
+        "total_profit": 141709.8,
+        "profit_per_unit": 55.13999999999999,
+        "efficiency_score": 52.38299999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 750300824,
+        "item_type": "Office Supplies",
+        "order_date": "2010-11-25",
+        "total_revenue": 6213845.82,
+        "total_profit": 1204677.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 975060927,
+        "item_type": "Baby Food",
+        "order_date": "2015-12-08",
+        "total_revenue": 268299.28,
+        "total_profit": 100748.86,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 599926316,
+        "item_type": "Personal Care",
+        "order_date": "2014-06-28",
+        "total_revenue": 31384.32,
+        "total_profit": 9623.04,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 128070819,
+        "item_type": "Baby Food",
+        "order_date": "2011-06-18",
+        "total_revenue": 2005479.68,
+        "total_profit": 753076.16,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 582980763,
+        "item_type": "Cereal",
+        "order_date": "2012-10-24",
+        "total_revenue": 1196762.6,
+        "total_profit": 515416.62,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 358454978,
+        "item_type": "Household",
+        "order_date": "2014-03-21",
+        "total_revenue": 2437848.96,
+        "total_profit": 604583.04,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 168604791,
+        "item_type": "Office Supplies",
+        "order_date": "2012-05-30",
+        "total_revenue": 1796688.39,
+        "total_profit": 348323.75,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 797854030,
+        "item_type": "Beverages",
+        "order_date": "2016-07-19",
+        "total_revenue": 75540.4,
+        "total_profit": 24930.72,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 850939023,
+        "item_type": "Household",
+        "order_date": "2014-02-19",
+        "total_revenue": 415663.94,
+        "total_profit": 103084.06,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 802908599,
+        "item_type": "Cosmetics",
+        "order_date": "2012-09-05",
+        "total_revenue": 3214294.4,
+        "total_profit": 1278292.24,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 749124085,
+        "item_type": "Clothes",
+        "order_date": "2013-03-04",
+        "total_revenue": 144140.32,
+        "total_profit": 96867.36,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 855259311,
+        "item_type": "Clothes",
+        "order_date": "2013-11-20",
+        "total_revenue": 993464.48,
+        "total_profit": 667643.04,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 907300603,
+        "item_type": "Vegetables",
+        "order_date": "2014-02-28",
+        "total_revenue": 1427365.9,
+        "total_profit": 584899.45,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 761546790,
+        "item_type": "Household",
+        "order_date": "2010-08-12",
+        "total_revenue": 4993981.71,
+        "total_profit": 1238500.29,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 794609200,
+        "item_type": "Clothes",
+        "order_date": "2016-01-25",
+        "total_revenue": 150260.0,
+        "total_profit": 100980.0,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 553411662,
+        "item_type": "Clothes",
+        "order_date": "2010-05-05",
+        "total_revenue": 618961.92,
+        "total_profit": 415964.16,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 105190503,
+        "item_type": "Vegetables",
+        "order_date": "2012-03-05",
+        "total_revenue": 1087971.72,
+        "total_profit": 445824.06,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 487494552,
+        "item_type": "Office Supplies",
+        "order_date": "2014-11-17",
+        "total_revenue": 6073184.46,
+        "total_profit": 1177407.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 558185136,
+        "item_type": "Clothes",
+        "order_date": "2012-10-23",
+        "total_revenue": 900576.48,
+        "total_profit": 605219.04,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 145436084,
+        "item_type": "Cereal",
+        "order_date": "2012-10-09",
+        "total_revenue": 1362556.8,
+        "total_profit": 586820.16,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 497733724,
+        "item_type": "Snacks",
+        "order_date": "2015-01-17",
+        "total_revenue": 1422655.92,
+        "total_profit": 514125.36,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 233876883,
+        "item_type": "Household",
+        "order_date": "2017-03-11",
+        "total_revenue": 5494515.94,
+        "total_profit": 1362632.06,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 292976891,
+        "item_type": "Beverages",
+        "order_date": "2010-04-08",
+        "total_revenue": 342968.6,
+        "total_profit": 113190.48,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 784457576,
+        "item_type": "Cereal",
+        "order_date": "2012-11-24",
+        "total_revenue": 1498318.8,
+        "total_profit": 645289.56,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 538055264,
+        "item_type": "Cosmetics",
+        "order_date": "2014-06-25",
+        "total_revenue": 596340.8,
+        "total_profit": 237158.68,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 253818786,
+        "item_type": "Household",
+        "order_date": "2016-11-04",
+        "total_revenue": 6331189.98,
+        "total_profit": 1570126.02,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 252109467,
+        "item_type": "Meat",
+        "order_date": "2015-04-19",
+        "total_revenue": 1539476.61,
+        "total_profit": 208722.8,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 923601138,
+        "item_type": "Snacks",
+        "order_date": "2010-01-03",
+        "total_revenue": 451026.48,
+        "total_profit": 162993.84,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 479280126,
+        "item_type": "Meat",
+        "order_date": "2017-05-09",
+        "total_revenue": 3583955.55,
+        "total_profit": 485914.0,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 800445258,
+        "item_type": "Meat",
+        "order_date": "2013-02-15",
+        "total_revenue": 3541344.66,
+        "total_profit": 480136.8,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 688707864,
+        "item_type": "Personal Care",
+        "order_date": "2012-01-17",
+        "total_revenue": 230151.68,
+        "total_profit": 70568.96,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 815991771,
+        "item_type": "Personal Care",
+        "order_date": "2010-12-19",
+        "total_revenue": 731728.69,
+        "total_profit": 224362.18,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 574533307,
+        "item_type": "Baby Food",
+        "order_date": "2015-05-18",
+        "total_revenue": 1538827.84,
+        "total_profit": 577844.08,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 326881301,
+        "item_type": "Personal Care",
+        "order_date": "2012-11-25",
+        "total_revenue": 24192.08,
+        "total_profit": 7417.76,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 955897080,
+        "item_type": "Personal Care",
+        "order_date": "2014-12-13",
+        "total_revenue": 3514.39,
+        "total_profit": 1077.58,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 714754474,
+        "item_type": "Household",
+        "order_date": "2015-01-23",
+        "total_revenue": 392274.49,
+        "total_profit": 97283.51,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 176939809,
+        "item_type": "Baby Food",
+        "order_date": "2015-05-31",
+        "total_revenue": 2367977.28,
+        "total_profit": 889197.36,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 886251914,
+        "item_type": "Beverages",
+        "order_date": "2015-06-17",
+        "total_revenue": 23297.95,
+        "total_profit": 7689.06,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 406802117,
+        "item_type": "Personal Care",
+        "order_date": "2015-09-23",
+        "total_revenue": 52388.93,
+        "total_profit": 16063.46,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 873014247,
+        "item_type": "Cosmetics",
+        "order_date": "2014-01-04",
+        "total_revenue": 1386361.2,
+        "total_profit": 551341.77,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 439624631,
+        "item_type": "Personal Care",
+        "order_date": "2016-10-01",
+        "total_revenue": 290386.69,
+        "total_profit": 89038.18,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 931682097,
+        "item_type": "Snacks",
+        "order_date": "2012-07-07",
+        "total_revenue": 654873.36,
+        "total_profit": 236660.88,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 194547975,
+        "item_type": "Snacks",
+        "order_date": "2013-08-30",
+        "total_revenue": 1514203.92,
+        "total_profit": 547209.36,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 643896090,
+        "item_type": "Vegetables",
+        "order_date": "2014-09-05",
+        "total_revenue": 310739.02,
+        "total_profit": 127333.21,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 715712773,
+        "item_type": "Baby Food",
+        "order_date": "2011-02-10",
+        "total_revenue": 1064262.32,
+        "total_profit": 399640.34,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 716296851,
+        "item_type": "Personal Care",
+        "order_date": "2010-12-08",
+        "total_revenue": 573009.03,
+        "total_profit": 175695.66,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 572259652,
+        "item_type": "Meat",
+        "order_date": "2015-08-17",
+        "total_revenue": 1351313.67,
+        "total_profit": 183211.6,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 280525004,
+        "item_type": "Office Supplies",
+        "order_date": "2016-05-08",
+        "total_revenue": 1587649.98,
+        "total_profit": 307797.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 358329236,
+        "item_type": "Personal Care",
+        "order_date": "2012-12-04",
+        "total_revenue": 526259.47,
+        "total_profit": 161361.34,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 493221175,
+        "item_type": "Vegetables",
+        "order_date": "2010-01-04",
+        "total_revenue": 610231.66,
+        "total_profit": 250057.93,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 893062150,
+        "item_type": "Beverages",
+        "order_date": "2013-05-01",
+        "total_revenue": 274782.95,
+        "total_profit": 90687.06,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 936025989,
+        "item_type": "Household",
+        "order_date": "2010-10-02",
+        "total_revenue": 6512291.15,
+        "total_profit": 1615038.85,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 520599019,
+        "item_type": "Office Supplies",
+        "order_date": "2013-11-30",
+        "total_revenue": 3694314.33,
+        "total_profit": 716216.25,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 515580070,
+        "item_type": "Vegetables",
+        "order_date": "2016-08-06",
+        "total_revenue": 70097.3,
+        "total_profit": 28724.15,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 510080468,
+        "item_type": "Fruits",
+        "order_date": "2013-08-22",
+        "total_revenue": 27999.33,
+        "total_profit": 7232.41,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 163524043,
+        "item_type": "Cosmetics",
+        "order_date": "2012-04-24",
+        "total_revenue": 4045411.6,
+        "total_profit": 1608819.11,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 555647122,
+        "item_type": "Clothes",
+        "order_date": "2013-05-14",
+        "total_revenue": 785286.08,
+        "total_profit": 527739.84,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 136498534,
+        "item_type": "Clothes",
+        "order_date": "2014-11-05",
+        "total_revenue": 197141.12,
+        "total_profit": 132485.76,
+        "profit_per_unit": 73.44000000000001,
+        "efficiency_score": 69.76800000000001,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 576439607,
+        "item_type": "Clothes",
+        "order_date": "2015-11-06",
+        "total_revenue": 15736.32,
+        "total_profit": 10575.36,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 916144168,
+        "item_type": "Vegetables",
+        "order_date": "2012-10-01",
+        "total_revenue": 966418.38,
+        "total_profit": 396014.49,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 716598546,
+        "item_type": "Snacks",
+        "order_date": "2010-07-29",
+        "total_revenue": 959575.62,
+        "total_profit": 346775.46,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 509101569,
+        "item_type": "Snacks",
+        "order_date": "2011-08-14",
+        "total_revenue": 507023.34,
+        "total_profit": 183230.22,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 445264565,
+        "item_type": "Meat",
+        "order_date": "2011-08-31",
+        "total_revenue": 1069491.15,
+        "total_profit": 145002.0,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 747011363,
+        "item_type": "Cosmetics",
+        "order_date": "2011-05-11",
+        "total_revenue": 2674352.4,
+        "total_profit": 1063562.79,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 356578290,
+        "item_type": "Beverages",
+        "order_date": "2012-05-25",
+        "total_revenue": 393597.75,
+        "total_profit": 129899.7,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 986514174,
+        "item_type": "Snacks",
+        "order_date": "2013-10-09",
+        "total_revenue": 49130.76,
+        "total_profit": 17755.08,
+        "profit_per_unit": 55.14000000000001,
+        "efficiency_score": 52.383,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 369680345,
+        "item_type": "Beverages",
+        "order_date": "2015-07-13",
+        "total_revenue": 260215.8,
+        "total_profit": 85879.44,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 809250628,
+        "item_type": "Cereal",
+        "order_date": "2014-12-29",
+        "total_revenue": 843164.3,
+        "total_profit": 363130.41,
+        "profit_per_unit": 88.58999999999999,
+        "efficiency_score": 84.16049999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 628711354,
+        "item_type": "Cosmetics",
+        "order_date": "2010-07-22",
+        "total_revenue": 3723195.2,
+        "total_profit": 1480676.92,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 921861350,
+        "item_type": "Beverages",
+        "order_date": "2013-01-12",
+        "total_revenue": 385009.3,
+        "total_profit": 127065.24,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 602811944,
+        "item_type": "Cereal",
+        "order_date": "2011-08-03",
+        "total_revenue": 885538.5,
+        "total_profit": 381379.95,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 455986964,
+        "item_type": "Cosmetics",
+        "order_date": "2015-05-18",
+        "total_revenue": 2418153.2,
+        "total_profit": 961674.97,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 886122739,
+        "item_type": "Clothes",
+        "order_date": "2011-11-28",
+        "total_revenue": 247519.2,
+        "total_profit": 166341.6,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 568268096,
+        "item_type": "Vegetables",
+        "order_date": "2016-04-04",
+        "total_revenue": 310122.78,
+        "total_profit": 127080.69,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 497784364,
+        "item_type": "Fruits",
+        "order_date": "2014-04-10",
+        "total_revenue": 40212.3,
+        "total_profit": 10387.1,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 840345370,
+        "item_type": "Clothes",
+        "order_date": "2011-10-19",
+        "total_revenue": 625518.72,
+        "total_profit": 420370.56,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 481937444,
+        "item_type": "Baby Food",
+        "order_date": "2015-10-01",
+        "total_revenue": 1239129.12,
+        "total_profit": 465304.44,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 178859412,
+        "item_type": "Vegetables",
+        "order_date": "2015-03-02",
+        "total_revenue": 1129259.8,
+        "total_profit": 462742.9,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 307722604,
+        "item_type": "Personal Care",
+        "order_date": "2015-04-21",
+        "total_revenue": 66364.76,
+        "total_profit": 20348.72,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 415450847,
+        "item_type": "Beverages",
+        "order_date": "2011-02-14",
+        "total_revenue": 474167.85,
+        "total_profit": 156490.38,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 569280469,
+        "item_type": "Cereal",
+        "order_date": "2013-10-17",
+        "total_revenue": 328297.2,
+        "total_profit": 141389.64,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 906760299,
+        "item_type": "Cereal",
+        "order_date": "2016-08-14",
+        "total_revenue": 1928848.9,
+        "total_profit": 830708.43,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 285751664,
+        "item_type": "Office Supplies",
+        "order_date": "2013-12-20",
+        "total_revenue": 5940337.62,
+        "total_profit": 1151652.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 334428393,
+        "item_type": "Baby Food",
+        "order_date": "2012-08-20",
+        "total_revenue": 931261.44,
+        "total_profit": 349697.28,
+        "profit_per_unit": 95.86000000000001,
+        "efficiency_score": 91.06700000000001,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 501276814,
+        "item_type": "Fruits",
+        "order_date": "2012-11-26",
+        "total_revenue": 72811.32,
+        "total_profit": 18807.64,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 305095756,
+        "item_type": "Clothes",
+        "order_date": "2012-05-03",
+        "total_revenue": 379092.32,
+        "total_profit": 254763.36,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 684996545,
+        "item_type": "Beverages",
+        "order_date": "2017-02-18",
+        "total_revenue": 216134.75,
+        "total_profit": 71331.3,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 850403010,
+        "item_type": "Cosmetics",
+        "order_date": "2015-08-19",
+        "total_revenue": 875711.6,
+        "total_profit": 348261.61,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 531051480,
+        "item_type": "Personal Care",
+        "order_date": "2012-05-16",
+        "total_revenue": 718324.97,
+        "total_profit": 220252.34,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 426990783,
+        "item_type": "Household",
+        "order_date": "2016-10-02",
+        "total_revenue": 3285215.32,
+        "total_profit": 814728.68,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 858582246,
+        "item_type": "Fruits",
+        "order_date": "2016-07-07",
+        "total_revenue": 22587.93,
+        "total_profit": 5834.61,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 416499698,
+        "item_type": "Personal Care",
+        "order_date": "2011-10-29",
+        "total_revenue": 30321.83,
+        "total_profit": 9297.26,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 911729466,
+        "item_type": "Meat",
+        "order_date": "2011-06-27",
+        "total_revenue": 4161944.85,
+        "total_profit": 564278.0,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 625570380,
+        "item_type": "Baby Food",
+        "order_date": "2014-01-04",
+        "total_revenue": 2305688.96,
+        "total_profit": 865807.52,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 159633767,
+        "item_type": "Clothes",
+        "order_date": "2011-05-27",
+        "total_revenue": 877955.52,
+        "total_profit": 590016.96,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 185843455,
+        "item_type": "Personal Care",
+        "order_date": "2015-08-26",
+        "total_revenue": 332068.99,
+        "total_profit": 101818.78,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 996435773,
+        "item_type": "Cereal",
+        "order_date": "2017-02-10",
+        "total_revenue": 1304755.1,
+        "total_profit": 561926.37,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 253959548,
+        "item_type": "Beverages",
+        "order_date": "2010-12-23",
+        "total_revenue": 53571.05,
+        "total_profit": 17680.14,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 641276109,
+        "item_type": "Meat",
+        "order_date": "2016-03-23",
+        "total_revenue": 2829194.34,
+        "total_profit": 383583.2,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 411559283,
+        "item_type": "Vegetables",
+        "order_date": "2011-04-04",
+        "total_revenue": 1293025.58,
+        "total_profit": 529850.09,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 138295400,
+        "item_type": "Personal Care",
+        "order_date": "2013-05-22",
+        "total_revenue": 289079.01,
+        "total_profit": 88637.22,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 465283286,
+        "item_type": "Clothes",
+        "order_date": "2014-07-06",
+        "total_revenue": 712396.32,
+        "total_profit": 478755.36,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 756634271,
+        "item_type": "Snacks",
+        "order_date": "2015-02-20",
+        "total_revenue": 572175.0,
+        "total_profit": 206775.0,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 446772181,
+        "item_type": "Baby Food",
+        "order_date": "2013-01-28",
+        "total_revenue": 2213788.16,
+        "total_profit": 831297.92,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 390433347,
+        "item_type": "Fruits",
+        "order_date": "2014-10-04",
+        "total_revenue": 63052.14,
+        "total_profit": 16286.78,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 612666594,
+        "item_type": "Household",
+        "order_date": "2016-04-30",
+        "total_revenue": 344159.05,
+        "total_profit": 85350.95,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 758833253,
+        "item_type": "Beverages",
+        "order_date": "2014-12-31",
+        "total_revenue": 212433.65,
+        "total_profit": 70109.82,
+        "profit_per_unit": 15.660000000000002,
+        "efficiency_score": 14.877,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 544607150,
+        "item_type": "Beverages",
+        "order_date": "2012-10-28",
+        "total_revenue": 10106.85,
+        "total_profit": 3335.58,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 205974614,
+        "item_type": "Vegetables",
+        "order_date": "2012-12-07",
+        "total_revenue": 203359.2,
+        "total_profit": 83331.6,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 949234473,
+        "item_type": "Snacks",
+        "order_date": "2015-09-23",
+        "total_revenue": 1286249.4,
+        "total_profit": 464830.2,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 900998055,
+        "item_type": "Beverages",
+        "order_date": "2015-02-06",
+        "total_revenue": 199384.9,
+        "total_profit": 65803.32,
+        "profit_per_unit": 15.660000000000002,
+        "efficiency_score": 14.877,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 958189189,
+        "item_type": "Fruits",
+        "order_date": "2017-05-15",
+        "total_revenue": 77709.57,
+        "total_profit": 20072.89,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 738044202,
+        "item_type": "Beverages",
+        "order_date": "2014-10-12",
+        "total_revenue": 120285.75,
+        "total_profit": 39698.1,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 828111922,
+        "item_type": "Personal Care",
+        "order_date": "2011-12-28",
+        "total_revenue": 455644.75,
+        "total_profit": 139709.5,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 536253678,
+        "item_type": "Cosmetics",
+        "order_date": "2014-09-23",
+        "total_revenue": 3600342.0,
+        "total_profit": 1431819.45,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 140643298,
+        "item_type": "Cosmetics",
+        "order_date": "2010-11-08",
+        "total_revenue": 3642750.4,
+        "total_profit": 1448684.84,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 439767110,
+        "item_type": "Vegetables",
+        "order_date": "2012-01-05",
+        "total_revenue": 880452.9,
+        "total_profit": 360787.95,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 502423942,
+        "item_type": "Baby Food",
+        "order_date": "2011-12-25",
+        "total_revenue": 1854353.92,
+        "total_profit": 696327.04,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 817725121,
+        "item_type": "Snacks",
+        "order_date": "2013-03-04",
+        "total_revenue": 288376.2,
+        "total_profit": 104214.6,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 145094478,
+        "item_type": "Beverages",
+        "order_date": "2015-04-14",
+        "total_revenue": 262635.75,
+        "total_profit": 86678.1,
+        "profit_per_unit": 15.660000000000002,
+        "efficiency_score": 14.877,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 464268338,
+        "item_type": "Clothes",
+        "order_date": "2011-06-30",
+        "total_revenue": 674585.44,
+        "total_profit": 453345.12,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 225295531,
+        "item_type": "Vegetables",
+        "order_date": "2014-12-28",
+        "total_revenue": 1357114.54,
+        "total_profit": 556112.17,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 198537385,
+        "item_type": "Cereal",
+        "order_date": "2017-04-20",
+        "total_revenue": 98530.3,
+        "total_profit": 42434.61,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 324667727,
+        "item_type": "Household",
+        "order_date": "2014-10-21",
+        "total_revenue": 3508417.5,
+        "total_profit": 870082.5,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 164672887,
+        "item_type": "Meat",
+        "order_date": "2012-07-08",
+        "total_revenue": 3890247.69,
+        "total_profit": 527441.2,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 249851691,
+        "item_type": "Beverages",
+        "order_date": "2012-09-26",
+        "total_revenue": 262066.35,
+        "total_profit": 86490.18,
+        "profit_per_unit": 15.659999999999998,
+        "efficiency_score": 14.876999999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 731815469,
+        "item_type": "Fruits",
+        "order_date": "2011-04-03",
+        "total_revenue": 86908.95,
+        "total_profit": 22449.15,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 932488048,
+        "item_type": "Clothes",
+        "order_date": "2016-04-12",
+        "total_revenue": 304891.2,
+        "total_profit": 204897.6,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 694105756,
+        "item_type": "Personal Care",
+        "order_date": "2014-05-15",
+        "total_revenue": 14139.29,
+        "total_profit": 4335.38,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 829217422,
+        "item_type": "Snacks",
+        "order_date": "2012-02-01",
+        "total_revenue": 414559.86,
+        "total_profit": 149815.38,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 870684373,
+        "item_type": "Office Supplies",
+        "order_date": "2017-01-16",
+        "total_revenue": 2415337.89,
+        "total_profit": 468261.25,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 421680438,
+        "item_type": "Vegetables",
+        "order_date": "2011-06-05",
+        "total_revenue": 534126.02,
+        "total_profit": 218871.71,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 505691945,
+        "item_type": "Office Supplies",
+        "order_date": "2016-05-05",
+        "total_revenue": 2825600.19,
+        "total_profit": 547798.75,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 416517722,
+        "item_type": "Office Supplies",
+        "order_date": "2012-04-27",
+        "total_revenue": 3715153.05,
+        "total_profit": 720256.25,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 868269097,
+        "item_type": "Beverages",
+        "order_date": "2011-03-28",
+        "total_revenue": 425911.2,
+        "total_profit": 140564.16,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 845369899,
+        "item_type": "Household",
+        "order_date": "2014-09-05",
+        "total_revenue": 1733492.38,
+        "total_profit": 429903.62,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 752556455,
+        "item_type": "Cereal",
+        "order_date": "2010-02-25",
+        "total_revenue": 1446688.1,
+        "total_profit": 623053.47,
+        "profit_per_unit": 88.58999999999999,
+        "efficiency_score": 84.16049999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 164877593,
+        "item_type": "Clothes",
+        "order_date": "2012-09-25",
+        "total_revenue": 1070834.72,
+        "total_profit": 719638.56,
+        "profit_per_unit": 73.44000000000001,
+        "efficiency_score": 69.76800000000001,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 977694642,
+        "item_type": "Beverages",
+        "order_date": "2015-11-05",
+        "total_revenue": 20213.7,
+        "total_profit": 6671.16,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 656681430,
+        "item_type": "Beverages",
+        "order_date": "2010-03-09",
+        "total_revenue": 260168.35,
+        "total_profit": 85863.78,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 787824285,
+        "item_type": "Beverages",
+        "order_date": "2010-03-28",
+        "total_revenue": 169301.6,
+        "total_profit": 55874.88,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 327422034,
+        "item_type": "Cosmetics",
+        "order_date": "2012-08-14",
+        "total_revenue": 135969.2,
+        "total_profit": 54073.57,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 552086007,
+        "item_type": "Personal Care",
+        "order_date": "2015-01-05",
+        "total_revenue": 275675.29,
+        "total_profit": 84527.38,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 108740031,
+        "item_type": "Vegetables",
+        "order_date": "2012-05-17",
+        "total_revenue": 1147284.82,
+        "total_profit": 470129.11,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 864620435,
+        "item_type": "Cereal",
+        "order_date": "2015-11-19",
+        "total_revenue": 1903753.5,
+        "total_profit": 819900.45,
+        "profit_per_unit": 88.58999999999999,
+        "efficiency_score": 84.16049999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 257276046,
+        "item_type": "Snacks",
+        "order_date": "2011-04-06",
+        "total_revenue": 389689.32,
+        "total_profit": 140827.56,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 744568192,
+        "item_type": "Fruits",
+        "order_date": "2015-08-08",
+        "total_revenue": 29193.57,
+        "total_profit": 7540.89,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 354670703,
+        "item_type": "Cereal",
+        "order_date": "2012-12-22",
+        "total_revenue": 781042.9,
+        "total_profit": 336376.23,
+        "profit_per_unit": 88.58999999999999,
+        "efficiency_score": 84.16049999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 336069905,
+        "item_type": "Clothes",
+        "order_date": "2011-03-28",
+        "total_revenue": 1028106.24,
+        "total_profit": 690923.52,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 207564628,
+        "item_type": "Baby Food",
+        "order_date": "2015-07-13",
+        "total_revenue": 469970.48,
+        "total_profit": 176478.26,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 908266198,
+        "item_type": "Cereal",
+        "order_date": "2016-11-25",
+        "total_revenue": 1029939.9,
+        "total_profit": 443570.13,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 747598445,
+        "item_type": "Office Supplies",
+        "order_date": "2011-04-07",
+        "total_revenue": 6413116.08,
+        "total_profit": 1243310.0,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 355297696,
+        "item_type": "Fruits",
+        "order_date": "2010-09-26",
+        "total_revenue": 87132.87,
+        "total_profit": 22506.99,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 431412780,
+        "item_type": "Snacks",
+        "order_date": "2017-02-18",
+        "total_revenue": 531436.14,
+        "total_profit": 192052.62,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 396305024,
+        "item_type": "Fruits",
+        "order_date": "2010-08-19",
+        "total_revenue": 40286.94,
+        "total_profit": 10406.38,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 640648257,
+        "item_type": "Personal Care",
+        "order_date": "2014-02-11",
+        "total_revenue": 74456.03,
+        "total_profit": 22829.66,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 275428807,
+        "item_type": "Household",
+        "order_date": "2013-08-31",
+        "total_revenue": 2913657.2,
+        "total_profit": 722582.8,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 281945502,
+        "item_type": "Household",
+        "order_date": "2015-05-15",
+        "total_revenue": 1867146.38,
+        "total_profit": 463049.62,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 361809670,
+        "item_type": "Baby Food",
+        "order_date": "2011-03-24",
+        "total_revenue": 1627920.56,
+        "total_profit": 611299.22,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 286945140,
+        "item_type": "Clothes",
+        "order_date": "2013-03-28",
+        "total_revenue": 251125.44,
+        "total_profit": 168765.12,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 349588239,
+        "item_type": "Office Supplies",
+        "order_date": "2011-09-30",
+        "total_revenue": 6370787.43,
+        "total_profit": 1235103.75,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 912287795,
+        "item_type": "Personal Care",
+        "order_date": "2017-02-04",
+        "total_revenue": 415678.78,
+        "total_profit": 127455.16,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 157905137,
+        "item_type": "Household",
+        "order_date": "2010-05-28",
+        "total_revenue": 4339745.38,
+        "total_profit": 1076250.62,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 839614093,
+        "item_type": "Fruits",
+        "order_date": "2015-07-02",
+        "total_revenue": 86983.59,
+        "total_profit": 22468.43,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 830900990,
+        "item_type": "Meat",
+        "order_date": "2011-11-04",
+        "total_revenue": 388982.58,
+        "total_profit": 52738.4,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 775564658,
+        "item_type": "Snacks",
+        "order_date": "2014-01-13",
+        "total_revenue": 865433.76,
+        "total_profit": 312754.08,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 937716424,
+        "item_type": "Fruits",
+        "order_date": "2015-01-10",
+        "total_revenue": 93141.39,
+        "total_profit": 24059.03,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 751780116,
+        "item_type": "Cereal",
+        "order_date": "2012-08-12",
+        "total_revenue": 1500992.9,
+        "total_profit": 646441.23,
+        "profit_per_unit": 88.59,
+        "efficiency_score": 84.1605,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 172492063,
+        "item_type": "Fruits",
+        "order_date": "2013-03-29",
+        "total_revenue": 28820.37,
+        "total_profit": 7444.49,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 124901092,
+        "item_type": "Household",
+        "order_date": "2013-01-16",
+        "total_revenue": 6591147.01,
+        "total_profit": 1634594.99,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 254368531,
+        "item_type": "Cosmetics",
+        "order_date": "2016-10-22",
+        "total_revenue": 942603.2,
+        "total_profit": 374863.72,
+        "profit_per_unit": 173.86999999999998,
+        "efficiency_score": 165.17649999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 276568210,
+        "item_type": "Household",
+        "order_date": "2011-06-13",
+        "total_revenue": 1025126.18,
+        "total_profit": 254229.82,
+        "profit_per_unit": 165.73000000000002,
+        "efficiency_score": 157.4435,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 427486455,
+        "item_type": "Snacks",
+        "order_date": "2015-03-26",
+        "total_revenue": 243670.26,
+        "total_profit": 88058.58,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 113422095,
+        "item_type": "Fruits",
+        "order_date": "2013-06-01",
+        "total_revenue": 27738.09,
+        "total_profit": 7164.93,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 160986459,
+        "item_type": "Personal Care",
+        "order_date": "2015-01-17",
+        "total_revenue": 680402.25,
+        "total_profit": 208624.5,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 567103374,
+        "item_type": "Cosmetics",
+        "order_date": "2011-04-16",
+        "total_revenue": 3211234.0,
+        "total_profit": 1277075.15,
+        "profit_per_unit": 173.86999999999998,
+        "efficiency_score": 165.17649999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 949009168,
+        "item_type": "Meat",
+        "order_date": "2017-02-08",
+        "total_revenue": 741260.73,
+        "total_profit": 100500.4,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 994252669,
+        "item_type": "Beverages",
+        "order_date": "2014-06-11",
+        "total_revenue": 14899.3,
+        "total_profit": 4917.24,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 910695207,
+        "item_type": "Personal Care",
+        "order_date": "2016-08-05",
+        "total_revenue": 310900.92,
+        "total_profit": 95328.24,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 976510608,
+        "item_type": "Snacks",
+        "order_date": "2011-06-06",
+        "total_revenue": 6713.52,
+        "total_profit": 2426.16,
+        "profit_per_unit": 55.13999999999999,
+        "efficiency_score": 52.38299999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 190185201,
+        "item_type": "Meat",
+        "order_date": "2010-08-01",
+        "total_revenue": 3747226.98,
+        "total_profit": 508050.4,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 320517814,
+        "item_type": "Snacks",
+        "order_date": "2015-05-30",
+        "total_revenue": 1098423.42,
+        "total_profit": 396952.86,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 956619775,
+        "item_type": "Personal Care",
+        "order_date": "2013-03-06",
+        "total_revenue": 319073.92,
+        "total_profit": 97834.24,
+        "profit_per_unit": 25.060000000000002,
+        "efficiency_score": 23.807000000000002,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 857914912,
+        "item_type": "Clothes",
+        "order_date": "2011-02-26",
+        "total_revenue": 540061.76,
+        "total_profit": 362940.48,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 204139554,
+        "item_type": "Baby Food",
+        "order_date": "2010-02-04",
+        "total_revenue": 2114994.8,
+        "total_profit": 794200.1,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 145342528,
+        "item_type": "Cosmetics",
+        "order_date": "2015-08-11",
+        "total_revenue": 3908130.8,
+        "total_profit": 1554223.93,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 551885163,
+        "item_type": "Household",
+        "order_date": "2011-08-28",
+        "total_revenue": 2632315.53,
+        "total_profit": 652810.47,
+        "profit_per_unit": 165.73,
+        "efficiency_score": 157.44349999999997,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 464441287,
+        "item_type": "Fruits",
+        "order_date": "2017-05-01",
+        "total_revenue": 68603.49,
+        "total_profit": 17720.73,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 343997228,
+        "item_type": "Fruits",
+        "order_date": "2014-12-07",
+        "total_revenue": 49253.07,
+        "total_profit": 12722.39,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 721851813,
+        "item_type": "Cosmetics",
+        "order_date": "2014-05-02",
+        "total_revenue": 370745.6,
+        "total_profit": 147441.76,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 849616372,
+        "item_type": "Cosmetics",
+        "order_date": "2011-04-27",
+        "total_revenue": 4030984.0,
+        "total_profit": 1603081.4,
+        "profit_per_unit": 173.86999999999998,
+        "efficiency_score": 165.17649999999998,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 949214732,
+        "item_type": "Personal Care",
+        "order_date": "2014-02-06",
+        "total_revenue": 211517.24,
+        "total_profit": 64855.28,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 862883222,
+        "item_type": "Meat",
+        "order_date": "2016-10-25",
+        "total_revenue": 2183280.75,
+        "total_profit": 296010.0,
+        "profit_per_unit": 57.2,
+        "efficiency_score": 54.34,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 503170669,
+        "item_type": "Baby Food",
+        "order_date": "2010-11-14",
+        "total_revenue": 2102741.36,
+        "total_profit": 789598.82,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 302938401,
+        "item_type": "Cosmetics",
+        "order_date": "2011-06-16",
+        "total_revenue": 2212232.0,
+        "total_profit": 879782.2,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 765360248,
+        "item_type": "Snacks",
+        "order_date": "2015-11-27",
+        "total_revenue": 909376.8,
+        "total_profit": 328634.4,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 213922536,
+        "item_type": "Snacks",
+        "order_date": "2015-01-12",
+        "total_revenue": 501530.46,
+        "total_profit": 181245.18,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 642424094,
+        "item_type": "Baby Food",
+        "order_date": "2012-01-30",
+        "total_revenue": 1638897.6,
+        "total_profit": 615421.2,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 964976251,
+        "item_type": "Beverages",
+        "order_date": "2011-05-12",
+        "total_revenue": 321283.95,
+        "total_profit": 106033.86,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 166002833,
+        "item_type": "Vegetables",
+        "order_date": "2014-06-15",
+        "total_revenue": 428594.92,
+        "total_profit": 175627.66,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 450240170,
+        "item_type": "Personal Care",
+        "order_date": "2016-06-11",
+        "total_revenue": 402683.71,
+        "total_profit": 123470.62,
+        "profit_per_unit": 25.06,
+        "efficiency_score": 23.807,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 492737090,
+        "item_type": "Vegetables",
+        "order_date": "2017-04-04",
+        "total_revenue": 109382.6,
+        "total_profit": 44822.3,
+        "profit_per_unit": 63.13,
+        "efficiency_score": 59.9735,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 388854920,
+        "item_type": "Clothes",
+        "order_date": "2010-04-26",
+        "total_revenue": 1056409.76,
+        "total_profit": 709944.48,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 304267489,
+        "item_type": "Fruits",
+        "order_date": "2016-08-13",
+        "total_revenue": 78054.78,
+        "total_profit": 20162.06,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 924961125,
+        "item_type": "Baby Food",
+        "order_date": "2012-10-08",
+        "total_revenue": 1380298.96,
+        "total_profit": 518315.02,
+        "profit_per_unit": 95.86,
+        "efficiency_score": 91.067,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 307234656,
+        "item_type": "Cosmetics",
+        "order_date": "2010-07-19",
+        "total_revenue": 2805512.4,
+        "total_profit": 1115723.79,
+        "profit_per_unit": 173.87,
+        "efficiency_score": 165.1765,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 627699410,
+        "item_type": "Clothes",
+        "order_date": "2015-03-13",
+        "total_revenue": 989967.52,
+        "total_profit": 665292.96,
+        "profit_per_unit": 73.44,
+        "efficiency_score": 69.768,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 533279216,
+        "item_type": "Beverages",
+        "order_date": "2014-02-08",
+        "total_revenue": 380786.25,
+        "total_profit": 125671.5,
+        "profit_per_unit": 15.66,
+        "efficiency_score": 14.876999999999999,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 991210401,
+        "item_type": "Fruits",
+        "order_date": "2010-11-16",
+        "total_revenue": 363.87,
+        "total_profit": 93.99,
+        "profit_per_unit": 2.4099999999999997,
+        "efficiency_score": 2.2894999999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 339041793,
+        "item_type": "Snacks",
+        "order_date": "2013-12-14",
+        "total_revenue": 1351248.48,
+        "total_profit": 488319.84,
+        "profit_per_unit": 55.14,
+        "efficiency_score": 52.382999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 134634721,
+        "item_type": "Fruits",
+        "order_date": "2010-02-18",
+        "total_revenue": 2435.13,
+        "total_profit": 629.01,
+        "profit_per_unit": 2.41,
+        "efficiency_score": 2.2895,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 206163012,
+        "item_type": "Vegetables",
+        "order_date": "2013-10-14",
+        "total_revenue": 1089512.32,
+        "total_profit": 446455.36,
+        "profit_per_unit": 63.129999999999995,
+        "efficiency_score": 59.973499999999994,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 902112996,
+        "item_type": "Meat",
+        "order_date": "2010-01-17",
+        "total_revenue": 1745358.93,
+        "total_profit": 236636.4,
+        "profit_per_unit": 57.199999999999996,
+        "efficiency_score": 54.339999999999996,
+        "market_discount_avg": 0.05
+    },
+    {
+        "order_id": 841283500,
+        "item_type": "Office Supplies",
+        "order_date": "2011-08-16",
+        "total_revenue": 2173738.98,
+        "total_profit": 421422.5,
+        "profit_per_unit": 126.25,
+        "efficiency_score": 119.9375,
+        "market_discount_avg": 0.05
+    }
+]
